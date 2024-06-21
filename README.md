@@ -18,5 +18,5 @@ https://www.credly.com/badges/7c841d2f-5274-4c59-b318-9751cf88d4f3/public_url
 Timeline
 Day 📆	Lessons/Tasks Done ⏰	Reference Links 🔗
 Day 1	Learnt Basics of Advanced Excel. Solved Neetcode 150 question - Duplicate Integer
-Day 2	
+Day 2	Solved Neetcode 150 question - Is Anagram
 
