@@ -19,4 +19,5 @@ Timeline
 Day 📆	Lessons/Tasks Done ⏰	Reference Links 🔗
 Day 1	Learnt Basics of Advanced Excel. Solved Neetcode 150 question - Duplicate Integer
 Day 2	Solved Neetcode 150 question - Is Anagram
+Day 3 Big O notation refresher and in depth learning
 
